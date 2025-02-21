@@ -5,5 +5,12 @@
         "surname": "Moskalenko",
         "photo_url": "https://media.discordapp.net/attachments/1197937862943969300/1342538767604383886/image.png?ex=67ba0029&is=67b8aea9&hm=65e41c07e76dff0a4d8fc98e36f9dbdfabfe7990da30620439557b9e83959c8c&=&format=webp&quality=lossless",
         "balance": 1500
+    },
+    {
+        "id": 2;,
+        "name": "Ihor",
+        "surname": "Yurkov",
+        "photo_url": "https://media.discordapp.net/attachments/1197937862943969300/1342538767604383886/image.png?ex=67ba0029&is=67b8aea9&hm=65e41c07e76dff0a4d8fc98e36f9dbdfabfe7990da30620439557b9e83959c8c&=&format=webp&quality=lossless",
+        "balance": 3600
     }
 ]
